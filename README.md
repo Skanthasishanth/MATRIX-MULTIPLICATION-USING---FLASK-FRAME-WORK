@@ -14,7 +14,7 @@ Flask is a micro web framework written in Python. It is considered a microframew
 
 ## Algorithm
 
-1. **Setup Flask Application**:
+**Setup Flask Application**:
    - Delete any existing `flask_app.py` file in the project directory.
    - Rename your main Python file to `flask_app.py` to match the expected filename for Flask applications.
    - Upload `flask_app.py` to the server.
