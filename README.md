@@ -20,7 +20,6 @@ Flask is a micro web framework written in Python. It is considered a microframew
    - Upload `flask_app.py` to the server.
    - If you have additional HTML, CSS, or other files, create `templates` and `static` directories and upload these files.
    - Go to the Web menu page and click on the Reload button to apply changes.
-   - 
 ## Program 
  **Python Code (`flask_app.py`)**:
    ```python
